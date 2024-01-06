@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [My Portfolio Website]
 
-- 🌱 I’m currently learning **Pyhton**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my Codes & Projects are available at  https://github.com/raj-mistry-01
 
