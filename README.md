@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my Codes & Projects are available at  https://github.com/raj-mistry-01
 
-- 💬 Ask me about **HTML, Javascript, CSS, Python, Matlab*
+- 💬 Ask me about **HTML, Javascript, CSS, Python, Matlab**
 
 - 📫 How to reach me **makwanaraj782@gmail.com**
 
