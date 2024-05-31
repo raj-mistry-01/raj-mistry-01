@@ -13,5 +13,8 @@
 
 - 📫 How to reach me **makwanaraj782@gmail.com**
 
+- ## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj_mistry01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-makwana-9b881528a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25344606/raj-makwana) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/raj_mistry01) 
+
   <h3>To Connect Me : </h3>
   https://linktr.ee/raj_mistry.me
