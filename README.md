@@ -1,7 +1,7 @@
 <h1>Student.Coder</h1>
 <h1 align="center">Hi 👋, I'm Raj Mistry</h1>
 <h3 align="center" >Goal to Learn How Computer Works ?</h3>
-<h3 align="center" >A Enthusiast Learner About Artificial Intelligence & Machine Learning</h3>
+<h3 align="center" >A Enthusiast Learner About Computer Technology</h3>
 
 - 🔭 I’m currently working on [Scan CODE Generator]
 
