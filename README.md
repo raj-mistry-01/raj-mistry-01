@@ -43,19 +43,19 @@ Goal To Learn How Computer Works , Making Stuff from What I Learn , I Love to Co
 
 <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,matlab,powershell,windows" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,sass" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,atom,vscode,visualstudio,blender,figma" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,ae,replit,sklearn,netlify" />
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,visualstudio,blender,figma,sublime,idea" />
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
