@@ -15,6 +15,10 @@
 
 - ⚡ Fun fact :  5 != 120 , Math  VS Computer  😂
 
+- ## HactoberFest'24
+
+- [![An image of @rajmistry01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajmistry01)](https://holopin.io/@rajmistry01)
+
 - ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1229805927847297096) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Raj.mistry01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/raj_mistry01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-makwana-9b881528a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25344606/raj-makwana) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/raj_mistry01) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCOc0hUVMQR_bhcj14ddOnnQ) 
 
