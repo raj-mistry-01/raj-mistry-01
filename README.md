@@ -15,7 +15,7 @@ Goal To Learn How Computer Works , Making Stuff from What I Learn , I Love to Co
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-- ## HactoberFest'24
+- ## HacktoberFest'24
 
 - [![An image of @rajmistry01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajmistry01)](https://holopin.io/@rajmistry01)
 
@@ -27,7 +27,6 @@ Goal To Learn How Computer Works , Making Stuff from What I Learn , I Love to Co
 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-# 💻 Tech Stack:
 ### 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
