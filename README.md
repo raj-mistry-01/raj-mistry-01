@@ -3,13 +3,7 @@
 <h3 align="center" >Goal to Learn How Computer Works ?</h3>
 <h3 align="center" >A Enthusiast Learner About Computer Technology</h3>
 
-- 🔭 I’m currently working on [Scan CODE Generator]
-
-- 🌱 I’m currently learning **Flask Django Cpp**
-
-- 👨‍💻 All of my Codes & Projects are available at  https://github.com/raj-mistry-01
-
-- 💬 Ask me about **HTML, Javascript, CSS, Python, Matlab**
+- 🌱 I’m currently learning **Data Structures And Algorithm**
 
 - 📫 How to reach me **makwanaraj782@gmail.com**
 
