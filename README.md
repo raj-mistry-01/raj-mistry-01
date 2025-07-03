@@ -27,35 +27,12 @@ Goal To Learn How Computer Works , Making Stuff from What I Learn , I Love to Co
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ### 💻 Tech Stack:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,nodejs,expressjs,mongodb,vite,flutter,dart,matlab,powershell,windows,cpp,java,py,ts,git,github,vercel,vscode" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,nodejs,expressjs,mongodb,vite" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,matlab,powershell,windows" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,sass" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,visualstudio,blender,figma,sublime,idea" />
-  </a>
-</p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 📊 GitHub Stats
