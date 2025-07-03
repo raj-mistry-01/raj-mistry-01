@@ -10,7 +10,6 @@ Goal To Learn How Computer Works , Making Stuff from What I Learn , I Love to Co
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, MongoDB, React.js, Node.js, Express.js, Git & GitHub DSA, Java, Frontend ,Backend**
 - 📫 How to reach me **makwanaraj782@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -59,10 +58,12 @@ Goal To Learn How Computer Works , Making Stuff from What I Learn , I Love to Co
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raj-mistry-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raj-mistry-01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-mistry-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raj-mistry-01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-mistry-01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</div>
 
 <h3>To Connect Me : </h3>
 https://linktr.ee/raj_mistry.me
