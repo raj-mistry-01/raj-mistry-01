@@ -91,7 +91,7 @@ Deep Passion for Technology, Innovation ans Creativity.
   <a href="http://rajmakwana.vercel.app/">
    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a> 
-  <a href=""/">
+  <a href="">
    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a> 
 </p>
