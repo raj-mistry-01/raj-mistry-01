@@ -6,7 +6,7 @@
 ---
 
 ### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me 
-Deep Passion for Technology, Innovation ans Creativity. 
+Deep Passion for Technology, Innovation and Creativity. 
 
 - 🌱 I’m currently learning **Data Structures And Algorithms, Java and SpringBoot.**
 - 👯 I’m looking to collaborate on **Open Source Projects.**
